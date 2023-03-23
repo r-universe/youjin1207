@@ -8,3 +8,8 @@
 	url = https://github.com/youjin1207/logisticrr
 	shallow = true
 	registered = true
+[submodule "netchain"]
+	path = netchain
+	url = https://github.com/cran/netchain
+	shallow = true
+	registered = true
