@@ -5,6 +5,3 @@
 [submodule "logisticRR"]
 	path = logisticRR
 	url = https://github.com/youjin1207/logisticrr
-[submodule "netchain"]
-	path = netchain
-	url = https://github.com/cran/netchain
